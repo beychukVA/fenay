@@ -1,0 +1,22 @@
+.mentions1__mention {
+	position: relative;
+	z-index: 1;
+	color: #ff1c51;
+	top: 4px;
+	left: 4px;
+}
+.mentions2__mention {
+	position: relative;
+	z-index: 1;
+	color: #ff1c51;
+	top: 9px;
+	left: 9px;
+}
+
+.mentions3__mention {
+	position: relative;
+	z-index: 1;
+	color: #ff1c51;
+	top: 5px;
+	left: 4px;
+}

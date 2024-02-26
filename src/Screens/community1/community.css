@@ -1,0 +1,48 @@
+.badges1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* padding: 575px 0px 12px 75px; */
+  padding: 101px 0 0 0;
+}
+.-combinediv {
+  width: 20%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin: 69px 0 0 0;
+}
+.main-section {
+  width: 100%;
+  display: flex;
+}
+.comu-detail {
+  width: 100%;
+  display: flex;
+  background-color: rgb(112, 112, 112, 0.7);
+  justify-content: center;
+  height: 78%;
+  margin: 36px 0 0 0;
+  border-radius: 26px;
+}
+.friends-list h2 {
+  font-size: 26px;
+  color: white;
+  font-family: "Poppins";
+  padding: 0 0 2px 0;
+}
+.player {
+  width: 90%;
+  margin: 0 auto;
+}
+.friends-list img {
+  padding: 20px 0 16px 0;
+}
+.friends-list {
+  width: 100%;
+  margin: 0 0 220px 0;
+}
+.badges1 svg.MuiSvgIcon-root.MuiSvgIcon-fontSizeMedium.css-i4bv87-MuiSvgIcon-root {
+  font-size: 50px !important;
+}

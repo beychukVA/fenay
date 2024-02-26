@@ -1,0 +1,99 @@
+/* .css-bnc8dt {
+  position: absolute;
+  width: 0 !important;
+  height: 100%;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+  background: linear-gradient(rgb(255, 38, 142) 0%, rgb(255, 105, 79) 100%);
+  -webkit-transition: all 500ms cubic-bezier(0.175, 0.885, 0.32, 1.275) 0s;
+  transition: all 500ms cubic-bezier(0.175, 0.885, 0.32, 1.275) 0s;
+} */
+
+.css-k3bbis-MuiSlider-root {
+  border-radius: 12px;
+  box-sizing: content-box;
+  display: inline-block;
+  position: relative;
+  cursor: pointer;
+  touch-action: none;
+  color: #1976d2;
+  -webkit-tap-highlight-color: transparent;
+  height: 4px;
+  width: 10% !important;
+  padding: 13px 0;
+}
+.MuiSlider-colorPrimary .MuiSlider-track {
+  background: #ff1c51;
+}
+
+.MuiSlider-colorPrimary .MuiSlider-thumbColorPrimary {
+  background: #ff1c51;
+}
+/* .MuiBox-root.css-70qvj9 {
+  margin: -44px 0 0 !important;
+} */
+.css-1dr84hl {
+  padding: 16px;
+  border-radius: 16px;
+  width: 90% !important;
+  max-width: 100%;
+  margin: auto;
+  position: relative;
+  z-index: 1;
+  background-color: #707070 !important;
+  -webkit-backdrop-filter: blur(40px);
+  backdrop-filter: blur(40px);
+}
+.css-tc3b8o-MuiStack-root {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  margin-bottom: 24px;
+  padding-left: 0px;
+  padding-right: 0px;
+  width: 50% !important;
+}
+/* .css-70qvj9 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: -25px !important;
+} */
+/* .css-1n40zqk-MuiSlider-track {
+
+  background-color: rgb(255 28 81 / 66%) !important;
+ 
+} */
+/* .css-14gf62f-MuiSlider-thumb::after {
+  position: absolute;
+  content: "";
+  border-radius: 50%;
+  width: 15px !important;
+  height: 15px !important;
+  top: 50%;
+  left: 50%;
+  background-color: #FF1C51 !important;
+} */
+.css-hovie8-MuiSlider-root {
+  padding: 0px 0 20px !important;
+  margin-left: 20px !important;
+}
+.css-12xzulf-MuiTypography-root {
+  position: absolute;
+
+}
+.css-1ytd6fn{
+  margin-top: 0px !important; 
+}
+.css-k3bbis-MuiSlider-root {
+  padding: 0px 0 20px !important;
+}
+.css-1vrt81i {
+  margin-bottom: 30px !important;
+  margin-top: 30px !important;
+}
